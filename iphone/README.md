@@ -1,6 +1,6 @@
 # DIO Java Course Exercise: iPhone Modeling and Implementation
 
-This repository is dedicated to submitting the **[OOP Challenge](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)** from the **[Java course at Digital Innovation One (DIO)](https://web.dio.me/)**.
+This project is dedicated to submitting the **[OOP Challenge](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)** from the **[Java course at Digital Innovation One (DIO)](https://web.dio.me/)**.
 
 ## 📌 Challenge Description
 
